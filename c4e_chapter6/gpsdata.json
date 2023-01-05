@@ -1,0 +1,20 @@
+Data=[
+{latitude: 43.310902, longitude: -96.837799, info: 'speed=77'},
+{latitude: 47.988098, longitude: -121.514000, info: 'speed=59'},
+{latitude: 42.413101, longitude: -72.870598, info: 'speed=79'},
+{latitude: 40.919498, longitude: -114.464302, info: 'speed=72'},
+{latitude: 46.011101, longitude: -118.107002, info: 'speed=68'},
+{latitude: 34.052200, longitude: -119.109100, info: 'speed=66'},
+{latitude: 35.227100, longitude: -80.936600, info: 'speed=69'},
+{latitude: 33.448399, longitude: -111.670799, info: 'speed=61'},
+{latitude: 39.739201, longitude: -104.990303, info: 'speed=63'},
+{latitude: 35.460098, longitude: -83.125000, info: 'speed=79'},
+{latitude: 35.467602, longitude: -97.754402, info: 'speed=67'},
+{latitude: 28.038300, longitude: -82.449997, info: 'speed=64'},
+{latitude: 36.540699, longitude: -119.663597, info: 'speed=75'},
+{latitude: 43.653198, longitude: -79.419502, info: 'speed=60'},
+{latitude: 38.895100, longitude: -77.472801, info: 'speed=72'},
+{latitude: 33.749001, longitude: -84.388000, info: 'speed=78'},
+{latitude: 37.774899, longitude: -122.419403, info: 'speed=66'},
+{latitude: 36.162701, longitude: -86.807297, info: 'speed=79'}
+]
